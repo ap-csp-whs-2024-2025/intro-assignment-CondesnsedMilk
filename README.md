@@ -8,8 +8,14 @@
 6. Commit your files with a commit message.
 7. Synchronize your repository.
 
+Hello Hello, test, test
+
 ## About Me
 Answer the questions below
-* Something interesting about me is
-* Ask Mr. Vu anything:
+* Something interesting about me is that I am in 4 music ensembles
+* Ask Mr. Vu anything: What is the limit of the virtual coding space in the browser
 * List your sports and extracurriculars you participate in
+Jazz band
+Steel drum band
+indoor drumline
+symphonic band
